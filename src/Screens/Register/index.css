@@ -1,0 +1,47 @@
+.formContainer{
+    background-color: #a7bcff;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formWrapper{
+    background-color: white;
+    padding: 20px 60px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.logo{
+    font-weight: bold;
+    font-size: 24px;
+    color:#5d5b8d;
+}
+.title{
+    color:#5d5b8d;
+    font-size: 14px;
+}
+.input{
+    padding: 15px;
+    border: none;
+    border-bottom: 1px solid #a7bcff;
+    width: 250px;
+    outline: none;
+ 
+}
+.signUp{
+    background-color: rgb(69, 69, 229);
+    height: 35px;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.text{
+    margin-top: 10px;
+    font-size: 12px;
+    color: 5d5b8d;
+}

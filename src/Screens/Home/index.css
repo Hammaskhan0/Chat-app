@@ -1,0 +1,15 @@
+.home{
+    height: 100vh;
+    background-color: #a7bcff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    border: 1px solid white ;
+    border-radius: 10px;
+    height: 80%;
+    width: 65%;
+    display: flex;
+    overflow: hidden;
+}

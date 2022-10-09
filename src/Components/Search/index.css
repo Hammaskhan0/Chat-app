@@ -1,0 +1,19 @@
+.search {
+    border: 1px solid gray;
+}
+
+.searchForm {
+    padding: 10px;
+}
+
+.userChat {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 10px ;
+    color: white;
+    cursor: pointer;
+}
+.userChat:hover{
+    background-color: #2f2d52;
+ }
